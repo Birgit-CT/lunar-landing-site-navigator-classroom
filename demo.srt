@@ -1,0 +1,23 @@
+1
+00:00:00,250 --> 00:00:03,800
+Every lunar landing is a balance between place and time.
+
+2
+00:00:04,270 --> 00:00:08,550
+Lunar Landing Site Navigator turns NASA data into a mission you can explore.
+
+3
+00:00:09,050 --> 00:00:13,100
+Choose a site, and see how the real terrain shapes it.
+
+4
+00:00:13,750 --> 00:00:17,900
+Move through time. Watch sunlight and contact with Earth change.
+
+5
+00:00:18,400 --> 00:00:22,550
+See not just the score, but why the window works.
+
+6
+00:00:23,200 --> 00:00:26,950
+Pin your options, and compare the trade-offs side by side.

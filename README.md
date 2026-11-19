@@ -20,7 +20,7 @@ Understanding why a landing site works normally means reading illumination maps,
 - move through two weeks of time,
 - and watch the Sun and Earth rise and set over the real terrain.
 
-Every step has a **Learn** box with one short fact and one question to talk about. A **For teachers** button opens learning goals and a ready-made 40-minute lesson plan.
+Every step has a **Learn** box with one short fact and one question to talk about. A **For teachers** button opens learning goals, a ready-made 40-minute lesson plan and 17 **background slides** (the Athena story, the landing sites, the three mission types, the lunar day and LOLA, each fact with its source). The slides are shown inside the app, with teacher notes and full-screen mode, and are not offered as a separate download, so they stay together with the app and its context.
 
 ## Why it can be trusted
 - The terrain is NASA's Lunar Orbiter Laser Altimeter (LOLA) elevation data.
@@ -77,4 +77,5 @@ Run `python3 -m http.server` in this folder and open http://localhost:8000.
 ## Changes since Space Apps 2026
 | Date | Change |
 |---|---|
+| 2026-11-19 | Background slides with sources and teacher notes, shown inside the For teachers guide. |
 | 2026-11-16 | Classroom Edition: "Why it matters" story, Learn boxes with a fact and a question on every step, a For teachers guide with a 40-minute lesson plan, and clearer learning-prototype notices. |
